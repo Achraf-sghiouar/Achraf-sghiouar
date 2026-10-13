@@ -130,14 +130,6 @@ I am a **Software Engineer** specializing in the intersection of **Applied Gener
 
 ---
 
-### 📊 Engineering Consistency & Impact
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Achraf-sghiouar&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak & Total Contributions" />
-</div>
-
----
-
 ### 📬 Connect With Me
 
 <div align="center">
